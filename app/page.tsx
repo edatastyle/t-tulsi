@@ -610,7 +610,7 @@ export default function Home() {
 				                		<div className="row">
 					                    	<div className="col-12">
 					                    		<div className="form-group">
-							                        <input id="form_sub" type="text" name="name" placeholder="Your Name" required="required" data-error="Name is required." />
+							                        <input id="form_sub" type="text" name="name" placeholder="Your Name" required data-error="Name is required." />
 							                        <div className="help-block with-errors"></div>
 							                    </div>
 					                    	</div>
