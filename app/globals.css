@@ -1,0 +1,10 @@
+/* Import the original template styles - paths relative to public */
+@import url('/css/style.css');
+@import url('/css/responsive.css');
+@import url('/vendor/aos-next/dist/aos.css');
+
+/* Ensure body has no default Next styles conflicting */
+html, body {
+  margin: 0;
+  padding: 0;
+}

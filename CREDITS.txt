@@ -1,0 +1,53 @@
+Ttulsi - Health Supplement Next.js Template
+===========================================
+
+THIRD-PARTY LIBRARIES & CREDITS
+--------------------------------
+
+1. Bootstrap 4
+   https://getbootstrap.com/
+   License: MIT
+
+2. jQuery 2.2.3
+   https://jquery.com/
+   License: MIT
+
+3. Font Awesome 4.x
+   https://fontawesome.com/
+   License: Font Awesome Free / SIL OFL 1.1 + MIT
+
+4. Flaticon Icons
+   Included with the original design.
+   Check https://www.flaticon.com/ for license terms of individual icons.
+
+5. Owl Carousel 2
+   https://owlcarousel2.github.io/OwlCarousel2/
+   License: MIT
+
+6. AOS - Animate On Scroll
+   https://michalsnik.github.io/aos/
+   License: MIT
+
+7. Master Slider
+   https://www.masterslider.com/
+   COMMERCIAL LICENSE REQUIRED for redistribution.
+   If you do not hold a valid commercial license that permits
+   inclusion in a ThemeForest item, you must remove this plugin
+   and replace the Team slider section.
+
+8. Google Fonts
+   Open Sans & Oswald
+   https://fonts.google.com/
+   License: SIL Open Font License
+
+9. Images
+   Demo images are for preview purposes only.
+   Replace them with your own licensed stock or custom images
+   before commercial use / redistribution.
+
+IMPORTANT LEGAL NOTE FOR THEMEFOREST AUTHORS
+--------------------------------------------
+You must have the legal right to redistribute every asset
+included in the ZIP. Commercial plugins (Master Slider) and
+stock images usually require extended licenses. Failure to
+comply is a common reason for rejection or removal of items.

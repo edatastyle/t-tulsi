@@ -1,0 +1,17 @@
+<svg id="Shape" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-opacity: 0.07;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-1" cx="250" cy="250" r="249.5"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="249.5" cy="249.5" r="221"/>
+  <circle class="cls-1" cx="249" cy="249" r="192.5"/>
+  <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-1" cx="249.5" cy="249.5" r="166"/>
+</svg>
