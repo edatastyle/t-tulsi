@@ -616,13 +616,13 @@ export default function Home() {
 					                    	</div>
 					                    	<div className="col-12">
 					                    		<div className="form-group">
-							                        <input id="form_email" type="email" name="email" placeholder="Your Email" required="required" data-error="Valid email is required." />
+							                        <input id="form_email" type="email" name="email" placeholder="Your Email" required data-error="Valid email is required." />
 							                        <div className="help-block with-errors"></div>
 							                    </div>
 					                    	</div>
 					                    </div>
 				                		<div className="form-group">
-					                    	<textarea id="form_message" name="message" className="form_message" placeholder="Type Your Message" required="required" data-error="Please,leave us a message."></textarea>
+					                    	<textarea id="form_message" name="message" className="form_message" placeholder="Type Your Message" required data-error="Please,leave us a message."></textarea>
 					                    	<div className="help-block with-errors"></div>
 					                    </div>
 					                    <button className="theme-btn theme-btn-solid hvr-bounce-to-right">Send Message</button>
